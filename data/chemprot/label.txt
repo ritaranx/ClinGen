@@ -1,0 +1,6 @@
+Upregulator
+Downregulator
+Agonist
+Antagonist
+Product_of
+NOT
