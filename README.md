@@ -1,6 +1,6 @@
 # ClinGen
 
-This is the code for our paper `[Knowledge-Infused Prompting: Assessing and Advancing Clinical Text Data Generation with Large Language Models](https://arxiv.org/abs/2311.00287)'.
+This is the code for our paper [Knowledge-Infused Prompting: Assessing and Advancing Clinical Text Data Generation with Large Language Models](https://arxiv.org/abs/2311.00287).
 
 # Model Framework
 ![ClinGen](figure/clingen.png)
