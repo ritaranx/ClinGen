@@ -10,7 +10,7 @@ This is the code for our paper `[Knowledge-Infused Prompting: Assessing and Adva
 The original train/validation/test data, and the generated synthetic training data **will be uploaded** in Huggingface Dataset Hub soon:
 
 | Corpus | # Train | # Test | # Class | Task | Link | 
-| ------  | ------- | ----- | ----------- | ----------- | ----------- | ----------- |
+| ------  | ------- | ----- | ----------- | ----------- | ----------- |
 | LitCovid | 24960 | 6238 | 7 | Text Classification | [litcovid]()
 | HOC | 3091 | 898 | 10 | Text Classification |  [hoc]()
 | GAD | 4750 | 350 | 1 | Relation Extraction | [gad]()
