@@ -47,10 +47,10 @@ Feel free to contact `ran.xu at emory.edu` for any questions regarding this repo
 If you find this repository helpful, please kindly consider citing the corresponding paper. Thanks in advance!
 
 ```
-@article{xu2024knowledge,
+@inproceedings{xu2024knowledge,
   title={Knowledge-Infused Prompting: Assessing and Advancing Clinical Text Data Generation with Large Language Models},
   author={Xu, Ran and Cui, Hejie and Yu, Yue and Kan, Xuan and Shi, Wenqi and Zhuang, Yuchen and Jin, Wei and Ho, Joyce and Yang, Carl},
-  journal={Findings of the Association for Computational Linguistics: ACL 2024},
+  booktitle={Findings of the Association for Computational Linguistics: ACL 2024},
   year={2024}
 }
 ```
