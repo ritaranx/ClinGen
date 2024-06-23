@@ -7,7 +7,7 @@ This is the code for our paper [Knowledge-Infused Prompting: Assessing and Advan
 
 ## Dataset
 ### Generated Datasets
-The original train/validation/test data, and the generated synthetic training data **will be uploaded** in Huggingface Dataset Hub soon:
+The original train/validation/test data, and the generated synthetic training data has been **uploaded** in Huggingface Dataset Hub (note that `KG` and `LLM` stands for two ways of incorporating external knowledge):
 
 | Corpus | # Train | # Test | # Class | Task | Link-KG |  Link-LLM | 
 | ------  | ------- | ----- | ----------- | ----------- | ----------- | ----------- |
